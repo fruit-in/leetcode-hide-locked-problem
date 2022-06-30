@@ -9,4 +9,4 @@
 * [Violentmonkey](https://violentmonkey.github.io/)
 
 ## 安装
-* [v0.2](https://github.com/fruit-in/leetcode-hide-locked-problem/raw/master/leetcode_hide_locked_problem.user.js)
+* [v0.2.1](https://github.com/fruit-in/leetcode-hide-locked-problem/raw/master/leetcode_hide_locked_problem.user.js)

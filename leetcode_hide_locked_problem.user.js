@@ -6,7 +6,7 @@
 // @author       fruit-in
 // @license      MIT License
 // @match        https://leetcode.com/problemset/*/*
-// @match        https://leetcode-cn.com/problemset/*/*
+// @match        https://leetcode.cn/problemset/*/*
 // @icon         https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png
 // @grant        none
 // ==/UserScript==
@@ -20,7 +20,7 @@ window.onload = function() {
                 problemset.children[i].remove();
             }
         }
-    } else if (location.host == "leetcode-cn.com") {
+    } else if (location.host == "leetcode.cn") {
         for (let i = problemset.childElementCount - 1; i >= 0; i--) {
             if (problemset.children[i].children[0].children[0].children[0]) {
                 problemset.children[i].remove();
