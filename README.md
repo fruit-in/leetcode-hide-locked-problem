@@ -1,7 +1,7 @@
 # LeetCode hide locked problem
 [中文](./README_CN.md)
 
-A userscript to hide the locked problems on LeetCode.
+A userscript to hide the locked problems on LeetCode. Only works in old version.
 
 ## Requirement
 * [Greasemonkey](https://www.greasespot.net/)

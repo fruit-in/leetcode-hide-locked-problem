@@ -1,7 +1,7 @@
 # LeetCode hide locked problem
 [English](./README.md)
 
-用于隐藏力扣锁定题目的油猴脚本。
+用于隐藏力扣锁定题目的油猴脚本。只在旧版本生效。
 
 ## 需求
 * [Greasemonkey](https://www.greasespot.net/)
